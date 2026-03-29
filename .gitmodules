@@ -1,0 +1,3 @@
+[submodule "projects/flappy-bird-dupe"]
+	path = projects/flappy-bird-dupe
+	url = https://github.com/chrispooof/flappy-bird-dupe.git
