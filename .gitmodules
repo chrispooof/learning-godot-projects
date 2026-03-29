@@ -1,3 +1,6 @@
 [submodule "projects/flappy-bird-dupe"]
 	path = projects/flappy-bird-dupe
 	url = https://github.com/chrispooof/flappy-bird-dupe.git
+[submodule "projects/dodgeball"]
+	path = projects/dodgeball
+	url = https://github.com/chrispooof/dodgeball
