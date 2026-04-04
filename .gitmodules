@@ -4,3 +4,6 @@
 [submodule "projects/dodgeball"]
 	path = projects/dodgeball
 	url = https://github.com/chrispooof/dodgeball
+[submodule "projects/endless-platformer"]
+	path = projects/endless-platformer
+	url = https://github.com/chrispooof/endless-platformer
